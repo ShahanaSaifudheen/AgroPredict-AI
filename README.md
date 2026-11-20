@@ -137,3 +137,23 @@ streamlit run app.py
 B.Tech – Artificial Intelligence and Data Science
 
 GitHub: [ShahanaSaifudheen](https://github.com/ShahanaSaifudheen)
+
+## 📸 Application Screenshots
+
+### 🏠 Home Dashboard
+![Home Dashboard](screenshots/homeoage.png)
+
+### 🔮 Productivity Prediction
+![Prediction 1](screenshots/prediction1.png)
+![Prediction 2](screenshots/prediction2.png)
+
+### 🌾 Crop Comparison
+![Crop Comparison 1](screenshots/crop_comparison1.png)
+![Crop Comparison 2](screenshots/crop_comparison2.png)
+
+### 📊 Exploratory Data Analysis (EDA)
+![EDA 1](screenshots/eda1.png)
+![EDA 2](screenshots/eda2.png)
+![EDA 3](screenshots/eda3.png)
+![EDA 4](screenshots/eda4.png)
+![EDA 5](screenshots/eda5.png)
